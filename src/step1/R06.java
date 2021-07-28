@@ -12,7 +12,7 @@ public class R06 {
 			number[a] = scan.nextInt();
 			if(number[a] < 100 && number[a] > 0) {
 			}else {
-				System.out.println("범위에 맞는 숫자를 입력하세요.");
+				System.out.println("범위 에 맞는 숫자를 입력하세요.");
 				return;
 			}
 		}
