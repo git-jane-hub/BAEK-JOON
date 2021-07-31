@@ -3,7 +3,7 @@ package step1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class R06 {
+public class P06 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int [] number = new int [9];
