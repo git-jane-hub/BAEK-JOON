@@ -9,7 +9,6 @@ public class P10 {
 		int nkg = scan.nextInt();
 		int bongji;
 		for(int a = 1; a <= 3; a++) {
-			
 		
 			if(nkg % 5 == nkg % 3) {
 				
